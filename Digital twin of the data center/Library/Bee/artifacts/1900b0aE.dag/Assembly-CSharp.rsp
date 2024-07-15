@@ -352,7 +352,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/unity/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/unity/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/camera.cs"
+"Assets/Scripts/camera1.cs"
 "Assets/Scripts/HideScript.cs"
 "Assets/Scripts/Hum_PowerSliderText.cs"
 "Assets/Scripts/TempSliderText.cs"
